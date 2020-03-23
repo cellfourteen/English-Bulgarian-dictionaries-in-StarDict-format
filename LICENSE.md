@@ -1,4 +1,4 @@
-The files in this repository are distibuted under the terms of
+The files in this repository are distributed under the terms of
 Creative Commons Zero v1.0 Universal license
 https://creativecommons.org/publicdomain/zero/1.0/
 
