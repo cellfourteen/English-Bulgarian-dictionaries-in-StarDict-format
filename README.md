@@ -1,11 +1,11 @@
 # English Bulgarian dictionaries in StarDict format
 The Dual Bg En dictionary converted from BG Office Assistant to StarDict format
 
-**Download the latest version (2020-03-23)**
+**Download the latest version (2020-03-23):**
 
 https://github.com/cellfourteen/English-Bulgarian-dictionaries-in-StarDict-format/releases
 
-**Links and additional information**
+**Links and additional information:**
 
 http://bgoffice.sourceforge.net/assistant/index.html
 
