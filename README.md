@@ -1,5 +1,5 @@
 # English Bulgarian dictionaries in StarDict format
-The Dual Bg En dictionary converted from the BG Office Assistant's (bgoffice) to StarDict's format
+Dual Bg En dictionary converted from BG Office Assistant's (bgoffice) to StarDict's format
 
 **Download the latest version (2020-03-23):**
 
