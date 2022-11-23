@@ -24,7 +24,7 @@ http://bgoffice.sourceforge.net/assistant/index.html
 
 https://sourceforge.net/projects/bgoffice/files/
 
-To edit yourself and compile the .tab files, and (optionally) compress the .dict files of the dictionaries, you need a text editor, Stardict-editor, and Dictzip. Check out the following helful links below:
+To edit yourself and compile the .tab files, and (optionally) compress the .dict files of the dictionaries, you need a text editor, Stardict-editor, and Dictzip. Check out the following helpful links below:
 
 https://code.google.com/archive/p/stardict-3/downloads
 
