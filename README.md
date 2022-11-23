@@ -3,7 +3,7 @@ Dual Bg En dictionary converted from BG Office Assistant's (bgoffice) to StarDic
 
 **Download**
 
-To use the dictionaries with GoldenDict, ColorDict, etc., you could always download the latest snapshots from
+To use the dictionaries with GoldenDict, ColorDict, etc., you could always download the latest snapshots from:
 
 + [stardict-bgoffice_bg-en-2.4.2](https://github.com/cellfourteen/English-Bulgarian-dictionaries-in-StarDict-format/tree/master/stardict-bgoffice_bg-en-2.4.2)
 + [stardict-bgoffice_en-bg-2.4.2](https://github.com/cellfourteen/English-Bulgarian-dictionaries-in-StarDict-format/tree/master/stardict-bgoffice_en-bg-2.4.2)
@@ -24,7 +24,7 @@ http://bgoffice.sourceforge.net/assistant/index.html
 
 https://sourceforge.net/projects/bgoffice/files/
 
-To edit yourself and compile the .tab files, and (optionally) compress the .dict files of the dictionaries, you need a text editor, Stardict-editor, and Dictzip. Check out the following helful links below. 
+To edit yourself and compile the .tab files, and (optionally) compress the .dict files of the dictionaries, you need a text editor, Stardict-editor, and Dictzip. Check out the following helful links below&
 
 https://code.google.com/archive/p/stardict-3/downloads
 
