@@ -5,8 +5,8 @@ Dual Bg En dictionary converted from BG Office Assistant's (bgoffice) to StarDic
 
 To use the dictionaries with GoldenDict, ColorDict, etc., you could always download the latest snapshots from
 
-+ (stardict-bgoffice_bg-en-2.4.2)[https://github.com/cellfourteen/English-Bulgarian-dictionaries-in-StarDict-format/tree/master/stardict-bgoffice_bg-en-2.4.2]
-+ (stardict-bgoffice_en-bg-2.4.2)[https://github.com/cellfourteen/English-Bulgarian-dictionaries-in-StarDict-format/tree/master/stardict-bgoffice_en-bg-2.4.2]
++ [stardict-bgoffice_bg-en-2.4.2](https://github.com/cellfourteen/English-Bulgarian-dictionaries-in-StarDict-format/tree/master/stardict-bgoffice_bg-en-2.4.2)
++ [stardict-bgoffice_en-bg-2.4.2](https://github.com/cellfourteen/English-Bulgarian-dictionaries-in-StarDict-format/tree/master/stardict-bgoffice_en-bg-2.4.2)
 
 Major releases are sometimes provided via:
 
